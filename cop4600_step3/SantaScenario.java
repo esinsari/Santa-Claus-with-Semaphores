@@ -1,10 +1,3 @@
-/*
- * Written by: Esin Sari
- * Course....: COP 4600
- * Assignment: Homework#4: Step3
- * Date......: 3/18/2021
-*/
-
 package cop4600_santa;
 
 import java.util.ArrayList;
